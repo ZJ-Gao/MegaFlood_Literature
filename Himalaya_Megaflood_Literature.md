@@ -24,4 +24,4 @@
 
 13. Yang, A., Wang, H., Liu, W., Hu, K., Liu, D., Wu, C., & Hu, X. (2022). Two megafloods in the middle reach of Yarlung Tsangpo River since Last-glacial period: Evidence from giant bars. *Glob. Planet. Change*, 208, 103726.
 
-14. Morey, S.M. (2023). The legacy of megafloods in the eastern Himalaya: from erosion to deposition. *Thesis*.
+14. Morey, S.M. (2023). The legacy of megafloods in the eastern Himalaya: from erosion to deposition. *PhD Thesis*, University of Washington, Seattle.
